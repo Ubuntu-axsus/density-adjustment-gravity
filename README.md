@@ -32,8 +32,4 @@
 
 Tyrone Guerra - Ubuntu.axsus@gmail.com 
 
----
-
-*Developed in collaboration with Grok (xAI)*
-
-**⭐ Star this repo to get notified
+⭐ Star this repo to get notified
